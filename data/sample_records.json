@@ -1,0 +1,137 @@
+[
+  {
+    "Username": "pedrotuto",
+    "Email": "pedro.santos@uol.com",
+    "Password": "verao2019!",
+    "Name": "Pedro Santos",
+    "Url": "https://accounts.google.com/login",
+    "Cpf": "12345678901",
+    "Source": "forum-dump-2021"
+  },
+  {
+    "Username": "marianab",
+    "Email": "mariana.braga@uol.com",
+    "Password": "Mari@2020",
+    "Name": "Mariana Braga",
+    "Url": "https://mail.google.com",
+    "Cpf": "23456789012",
+    "Source": "forum-dump-2021"
+  },
+  {
+    "Username": "lucas_dev",
+    "Email": "lucas.dev@gmail.com",
+    "Password": "qwerty123",
+    "Name": "Lucas Oliveira",
+    "Url": "https://github.com/lucas-dev",
+    "Cpf": "34567890123",
+    "Source": "paste-leak-2022"
+  },
+  {
+    "Username": "ana.costa",
+    "Email": "ana.costa@uol.com",
+    "Password": "AnaC0sta#",
+    "Name": "Ana Costa",
+    "Url": "https://drive.google.com/ana",
+    "Cpf": "45678901234",
+    "Source": "forum-dump-2021"
+  },
+  {
+    "Username": "rafaelg",
+    "Email": "rafael.gomes@hotmail.com",
+    "Password": "rafa1998",
+    "Name": "Rafael Gomes",
+    "Url": "https://facebook.com/rafaelg",
+    "Cpf": "56789012345",
+    "Source": "social-scrape-2020"
+  },
+  {
+    "Username": "juliana_m",
+    "Email": "juliana.martins@uol.com",
+    "Password": "Ju2021ma",
+    "Name": "Juliana Martins",
+    "Url": "https://photos.google.com/juliana",
+    "Cpf": "67890123456",
+    "Source": "forum-dump-2021"
+  },
+  {
+    "Username": "carlosedu",
+    "Email": "carlos.eduardo@yahoo.com",
+    "Password": "cadu2017",
+    "Name": "Carlos Eduardo",
+    "Url": "https://twitter.com/carlosedu",
+    "Cpf": "78901234567",
+    "Source": "social-scrape-2020"
+  },
+  {
+    "Username": "biancaf",
+    "Email": "bianca.ferreira@uol.com",
+    "Password": "Bia#ferr",
+    "Name": "Bianca Ferreira",
+    "Url": "https://docs.google.com/bianca",
+    "Cpf": "89012345678",
+    "Source": "forum-dump-2021"
+  },
+  {
+    "Username": "thiago.rocha",
+    "Email": "thiago.rocha@gmail.com",
+    "Password": "throck2015",
+    "Name": "Thiago Rocha",
+    "Url": "https://linkedin.com/in/thiagorocha",
+    "Cpf": "90123456789",
+    "Source": "paste-leak-2022"
+  },
+  {
+    "Username": "pedrotuto",
+    "Email": "contato@pedrotuto.com.br",
+    "Password": "tuto2023",
+    "Name": "Pedro Tutoriais",
+    "Url": "https://sites.google.com/pedrotuto",
+    "Cpf": "01234567890",
+    "Source": "paste-leak-2022"
+  },
+  {
+    "Username": "fernanda.lima",
+    "Email": "fernanda.lima@uol.com",
+    "Password": "Fe2022li",
+    "Name": "Fernanda Lima",
+    "Url": "https://keep.google.com/fernanda",
+    "Cpf": "11223344556",
+    "Source": "forum-dump-2021"
+  },
+  {
+    "Username": "gustavo_s",
+    "Email": "gustavo.souza@outlook.com",
+    "Password": "gus1234",
+    "Name": "Gustavo Souza",
+    "Url": "https://instagram.com/gustavo_s",
+    "Cpf": "22334455667",
+    "Source": "social-scrape-2020"
+  },
+  {
+    "Username": "camila.alves",
+    "Email": "camila.alves@uol.com",
+    "Password": "Cami@2019",
+    "Name": "Camila Alves",
+    "Url": "https://play.google.com/camila",
+    "Cpf": "33445566778",
+    "Source": "forum-dump-2021"
+  },
+  {
+    "Username": "brunom",
+    "Email": "bruno.moreira@gmail.com",
+    "Password": "brunomm90",
+    "Name": "Bruno Moreira",
+    "Url": "https://news.google.com/brunom",
+    "Cpf": "44556677889",
+    "Source": "paste-leak-2022"
+  },
+  {
+    "Username": "larissa.dias",
+    "Email": "larissa.dias@uol.com",
+    "Password": "Lari2020d",
+    "Name": "Larissa Dias",
+    "Url": "https://maps.google.com/larissa",
+    "Cpf": "55667788990",
+    "Source": "forum-dump-2021"
+  }
+]

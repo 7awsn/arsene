@@ -1,0 +1,30 @@
+# Configuracao principal do Arsene
+# Escolha o backend ativo e preencha apenas a secao correspondente.
+
+# Backends disponiveis: local, elastic, api
+backend: local
+
+local:
+  # Dataset local usado para testes e demonstracao
+  dataset: data/sample_records.json
+
+elastic:
+  # Preencha com os dados do seu cluster Elasticsearch
+  host: "http://localhost:9200"
+  index: "arsene-records"
+  username: ""   # opcional
+  password: ""   # opcional
+  api_key: ""    # opcional, substitui usuario e senha quando preenchido
+  verify_certs: false
+
+api:
+  # Preencha com o endpoint e o token da sua propria API de consulta
+  endpoint: ""
+  token: ""
+  timeout: 15
+
+ui:
+  # Numero maximo de resultados exibidos por consulta
+  max_results: 50
+  # Oculta parte da senha nos resultados por padrao
+  mask_passwords: true

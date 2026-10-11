@@ -1,6 +1,10 @@
-# Arsene
+<p align="center">
+  <img src="assets/logo.png" alt="Arsene" width="160">
+</p>
 
-[English](README.md) | **Português**
+<h1 align="center">Arsene</h1>
+
+<p align="center"><a href="README.md">English</a> | <b>Português</b></p>
 
 Arsene e um console de OSINT para terminal. Ele permite fazer buscas
 combinadas sobre identificadores comuns (username, email, senha, nome, url e

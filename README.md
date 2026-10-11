@@ -1,6 +1,10 @@
-# Arsene
+<p align="center">
+  <img src="assets/logo.png" alt="Arsene" width="160">
+</p>
 
-**English** | [Português](README.pt-br.md)
+<h1 align="center">Arsene</h1>
+
+<p align="center"><b>English</b> | <a href="README.pt-br.md">Português</a></p>
 
 Arsene is a terminal based OSINT console. It lets you run combined lookups
 across common identifiers (username, email, password, name, url and cpf)

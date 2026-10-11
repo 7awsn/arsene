@@ -1,8 +1,10 @@
 # Arsene
 
-Arsene is a terminal based OSINT console inspired by tools such as IntelX.
-It lets you run combined lookups across common identifiers (username, email,
-password, name, url and cpf) through a small and expressive query language.
+**English** | [Português](README.pt-br.md)
+
+Arsene is a terminal based OSINT console. It lets you run combined lookups
+across common identifiers (username, email, password, name, url and cpf)
+through a small and expressive query language.
 
 The project ships with a fictitious dataset for demonstration only. It does
 not include and is not meant to handle any real personal data.

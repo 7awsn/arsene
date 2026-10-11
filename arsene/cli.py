@@ -17,10 +17,10 @@ from .models import SearchableFields
 
 
 Theme = {
-    "accent": "bold green",
+    "accent": "bold grey74",
     "dim": "grey50",
     "danger": "bold red",
-    "field": "cyan",
+    "field": "grey66",
     "value": "white",
 }
 
